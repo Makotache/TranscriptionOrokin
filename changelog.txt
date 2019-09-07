@@ -1,0 +1,4 @@
+V1.3
+correction texte de présentation
+ajout de l'email
+modif de l'icone du 'g'
